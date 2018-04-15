@@ -1,0 +1,4 @@
+#!/usr/bin/env perl
+
+use Modern::Perl qw/2016/;
+use Path::Tiny;
